@@ -1,4 +1,5 @@
-# Program4
+# Raid
+Simulate raid mechanism on memory
 
 Use below command to show the demonstration
 ```
